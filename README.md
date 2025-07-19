@@ -11,7 +11,7 @@ Welcome to **Snack__Attack** — a fun and addictive classic Snake Game built us
 - 📈 Real-time score tracking
 - ☠️ Game Over screen with **Restart (R)** and **Quit (Q)** options
 - 🐍 Snake with a blackish body and a visible white face
-- 🎨 Green background for a retro vibe
+- 🎨 Green background, just like Nokia days
 
 ## 🛠️ Technologies Used
 
